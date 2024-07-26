@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **Data Scientists,Analysts**
 
-- 💬 Ask me about **PowerBi,Python**
+- 💬 Ask me about **PowerBi,Python,Streamlit**
 
-- 📫 How to reach me **savadimihir@gmail.com**
+- 📫 How to reach me **savadimihir@gmail.com,9986287253**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
